@@ -1,0 +1,7 @@
+---
+title: "Assignment research method"
+format: html
+editor: visual
+---
+
+## Quarto
